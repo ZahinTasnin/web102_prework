@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-https://www.awesomescreenshot.com/video/39445791?key=310651f9bbf66a9327f1dca12ca66f52
-
+https://www.awesomescreenshot.com/video/39446239?key=a5ea256227aa0a3f2bc5632360fda745
 <!-- Replace this with whatever GIF tool you used! -->
 VIDEO created with ...  Awesome Screen Recorder and Screenshot
 <!-- Recommended tools:
